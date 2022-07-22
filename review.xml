@@ -1,0 +1,17 @@
+﻿<reviews>
+  <review>
+    <review_id>r1</review_id>
+    <Customer_name>ricky</Customer_name>
+    <comment>good</comment>
+  </review>
+  <review>
+    <review_id>r2</review_id>
+    <Customer_name>tom</Customer_name>
+    <comment>worst</comment>
+  </review>
+  <review>
+    <review_id>r3</review_id>
+    <Customer_name>json</Customer_name>
+    <comment>good</comment>
+  </review>
+</reviews>

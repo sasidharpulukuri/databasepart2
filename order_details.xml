@@ -1,0 +1,23 @@
+﻿<orderdetails>
+  <order_details>
+    <order_id>o1</order_id>
+    <order_date>2022-01-01</order_date>
+    <quantity>1</quantity>
+    <price>1.0000000e+002</price>
+    <customer_id>c1</customer_id>
+  </order_details>
+  <order_details>
+    <order_id>o2</order_id>
+    <order_date>2022-01-01</order_date>
+    <quantity>2</quantity>
+    <price>2.0000000e+002</price>
+    <customer_id>c2</customer_id>
+  </order_details>
+  <order_details>
+    <order_id>o3</order_id>
+    <order_date>2022-01-01</order_date>
+    <quantity>3</quantity>
+    <price>3.0000000e+002</price>
+    <customer_id>c3</customer_id>
+  </order_details>
+</orderdetails>

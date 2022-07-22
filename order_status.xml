@@ -1,0 +1,17 @@
+﻿<status>
+  <order_status>
+    <order_status_id>os1</order_status_id>
+    <order_id>o1</order_id>
+    <process>delivered</process>
+  </order_status>
+  <order_status>
+    <order_status_id>os2</order_status_id>
+    <order_id>o2</order_id>
+    <process>on the way</process>
+  </order_status>
+  <order_status>
+    <order_status_id>os3</order_status_id>
+    <order_id>o3</order_id>
+    <process>delivered</process>
+  </order_status>
+</status>

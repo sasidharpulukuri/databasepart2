@@ -1,0 +1,20 @@
+﻿<Customerdetails>
+  <Customer_details>
+    <customer_id>c1</customer_id>
+    <customer_name>john</customer_name>
+    <customer_address>stree vb</customer_address>
+    <phone_number>4343434</phone_number>
+  </Customer_details>
+  <Customer_details>
+    <customer_id>c2</customer_id>
+    <customer_name>mitchel</customer_name>
+    <customer_address>street fd</customer_address>
+    <phone_number>4554546</phone_number>
+  </Customer_details>
+  <Customer_details>
+    <customer_id>c3</customer_id>
+    <customer_name>tom</customer_name>
+    <customer_address>street gh</customer_address>
+    <phone_number>565577</phone_number>
+  </Customer_details>
+</Customerdetails>

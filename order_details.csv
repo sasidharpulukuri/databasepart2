@@ -1,0 +1,4 @@
+order_id,order_date,quantity,price,customer_id
+o1,2022-01-01,1,100,c1
+o2,2022-01-01,2,200,c2
+o3,2022-01-01,3,300,c3

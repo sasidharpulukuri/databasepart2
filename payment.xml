@@ -1,0 +1,23 @@
+﻿<payments>
+  <payment>
+    <payment_id>p1</payment_id>
+    <method>online</method>
+    <pay_status>full paid</pay_status>
+    <amount>1.0000000e+002</amount>
+    <customer_id>c1</customer_id>
+  </payment>
+  <payment>
+    <payment_id>p2</payment_id>
+    <method>offline</method>
+    <pay_status>half paid</pay_status>
+    <amount>1.0020000e+002</amount>
+    <customer_id>c2</customer_id>
+  </payment>
+  <payment>
+    <payment_id>p3</payment_id>
+    <method>online</method>
+    <pay_status>full paid</pay_status>
+    <amount>5.0000000e+001</amount>
+    <customer_id>c3</customer_id>
+  </payment>
+</payments>
